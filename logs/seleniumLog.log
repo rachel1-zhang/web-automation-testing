@@ -76,3 +76,9 @@
 2022-11-27  22:12:39 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to home page successfully
 2022-11-27  22:12:40 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to contact page successfully
 2022-11-27  22:12:40 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - click submit button successfully
+2022-11-28  12:49:45 [main] INFO  contactPageTest.VerifyErrorMsgTest - start Browser successfully
+2022-11-28  12:49:45 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to home page successfully
+2022-11-28  12:49:45 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to contact page successfully
+2022-11-28  12:49:46 [main] INFO  contactPageTest.VerifyErrorMsgTest - click submit button successfully
+2022-11-28  12:49:46 [main] INFO  contactPageTest.VerifyErrorMsgTest - required assertions are verified successfully
+2022-11-28  12:50:16 [main] INFO  contactPageTest.VerifyErrorMsgTest - Validate errors are gone successfully
