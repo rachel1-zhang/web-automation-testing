@@ -10,7 +10,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import pageobjects.ContactPagePO;
 import pageobjects.HomePagePO;
-import base.Utils;
+import lib.Utils;
 import java.io.IOException;
 
 public  class VerifyErrorMsgTest extends Base {
