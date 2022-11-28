@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="base.TestNGListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/automation/github/web automation project/src/test/java/cartPageTest/CartPageTest.java">
+        <classes>
+            <class name="cartPageTest.CartPageTest"><methods><include name="cartPageTest"/></methods></class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="C:/automation/github/web automation project/src/test/java/contactPageTest/SubmitSuccessTest.java">
+        <classes>
+            <class name="contactPageTest.SubmitSuccessTest">
+                <methods><include name="submitSuccessTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="C:/automation/github/web automation project/src/test/java/contactPageTest/VerifyErrorMsgTest.java">
+        <classes>
+            <class name="contactPageTest.VerifyErrorMsgTest">
+                <methods><include name="verifyErrorMsgTest"/>
+                </methods>
+            </class>
+            <class name="contactPageTest.VerifyErrorMsgFailTest">
+                <methods><include name="verifyErrorMsgFailTest"/>
+                </methods>
+            </class>
+    </classes>
+    </test>
+</suite>

@@ -1,0 +1,78 @@
+2022-11-27  21:16:07 [main] INFO  contactPageTest.VerifyErrorMsgTest - start Browser successfully
+2022-11-27  21:16:07 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to home page successfully
+2022-11-27  21:16:07 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to contact page successfully
+2022-11-27  21:16:07 [main] INFO  contactPageTest.VerifyErrorMsgTest - click submit button successfully
+2022-11-27  21:16:07 [main] INFO  contactPageTest.VerifyErrorMsgTest - required assertions are verified successfully
+2022-11-27  21:16:38 [main] INFO  contactPageTest.VerifyErrorMsgTest - Validate errors are gone successfully
+2022-11-27  21:22:55 [main] INFO  contactPageTest.VerifyErrorMsgTest - start Browser successfully
+2022-11-27  21:22:55 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to home page successfully
+2022-11-27  21:22:55 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to contact page successfully
+2022-11-27  21:22:56 [main] INFO  contactPageTest.VerifyErrorMsgTest - click submit button successfully
+2022-11-27  21:22:56 [main] INFO  contactPageTest.VerifyErrorMsgTest - required assertions are verified successfully
+2022-11-27  21:23:26 [main] INFO  contactPageTest.VerifyErrorMsgTest - Validate errors are gone successfully
+2022-11-27  21:49:43 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - start Browser successfully
+2022-11-27  21:49:43 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to home page successfully
+2022-11-27  21:49:44 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to contact page successfully
+2022-11-27  21:49:44 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - click submit button successfully
+2022-11-27  21:51:47 [main] INFO  contactPageTest.VerifyErrorMsgTest - start Browser successfully
+2022-11-27  21:51:47 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to home page successfully
+2022-11-27  21:51:47 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to contact page successfully
+2022-11-27  21:51:48 [main] INFO  contactPageTest.VerifyErrorMsgTest - click submit button successfully
+2022-11-27  21:51:48 [main] INFO  contactPageTest.VerifyErrorMsgTest - required assertions are verified successfully
+2022-11-27  21:52:18 [main] INFO  contactPageTest.VerifyErrorMsgTest - Validate errors are gone successfully
+2022-11-27  21:52:26 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - start Browser successfully
+2022-11-27  21:52:26 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to home page successfully
+2022-11-27  21:52:26 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to contact page successfully
+2022-11-27  21:52:27 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - click submit button successfully
+2022-11-27  22:06:21 [main] INFO  cartPageTest.CartPageTest - start Browser successfully
+2022-11-27  22:06:21 [main] INFO  cartPageTest.CartPageTest - go to home page successfully
+2022-11-27  22:06:21 [main] INFO  cartPageTest.CartPageTest - go to shop page successfully
+2022-11-27  22:06:24 [main] INFO  cartPageTest.CartPageTest - go to cart page successfully
+2022-11-27  22:06:26 [main] INFO  cartPageTest.CartPageTest - The actual price and the expected price are verified successfully
+2022-11-27  22:06:26 [main] INFO  cartPageTest.CartPageTest - The actual subtotal and the expected subtotal are verified successfully
+2022-11-27  22:06:26 [main] INFO  cartPageTest.CartPageTest - The actual price and the expected price are verified successfully
+2022-11-27  22:06:26 [main] INFO  cartPageTest.CartPageTest - The actual subtotal and the expected subtotal are verified successfully
+2022-11-27  22:06:26 [main] INFO  cartPageTest.CartPageTest - The actual price and the expected price are verified successfully
+2022-11-27  22:06:26 [main] INFO  cartPageTest.CartPageTest - The actual subtotal and the expected subtotal are verified successfully
+2022-11-27  22:06:26 [main] INFO  cartPageTest.CartPageTest - The actual total and the expected total are verified successfully
+2022-11-27  22:06:37 [main] INFO  contactPageTest.SubmitSuccessTest - start Browser successfully
+2022-11-27  22:06:37 [main] INFO  contactPageTest.SubmitSuccessTest - go to home page successfully
+2022-11-27  22:06:38 [main] INFO  contactPageTest.SubmitSuccessTest - go to contact page successfully
+2022-11-27  22:06:38 [main] INFO  contactPageTest.SubmitSuccessTest - contact messages are submitted successfully
+2022-11-27  22:06:48 [main] INFO  contactPageTest.SubmitSuccessTest - Submit contact message are verified successfully
+2022-11-27  22:06:57 [main] INFO  contactPageTest.VerifyErrorMsgTest - start Browser successfully
+2022-11-27  22:06:57 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to home page successfully
+2022-11-27  22:06:57 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to contact page successfully
+2022-11-27  22:06:57 [main] INFO  contactPageTest.VerifyErrorMsgTest - click submit button successfully
+2022-11-27  22:06:57 [main] INFO  contactPageTest.VerifyErrorMsgTest - required assertions are verified successfully
+2022-11-27  22:07:28 [main] INFO  contactPageTest.VerifyErrorMsgTest - Validate errors are gone successfully
+2022-11-27  22:07:35 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - start Browser successfully
+2022-11-27  22:07:35 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to home page successfully
+2022-11-27  22:07:36 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to contact page successfully
+2022-11-27  22:07:36 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - click submit button successfully
+2022-11-27  22:11:24 [main] INFO  cartPageTest.CartPageTest - start Browser successfully
+2022-11-27  22:11:25 [main] INFO  cartPageTest.CartPageTest - go to home page successfully
+2022-11-27  22:11:25 [main] INFO  cartPageTest.CartPageTest - go to shop page successfully
+2022-11-27  22:11:27 [main] INFO  cartPageTest.CartPageTest - go to cart page successfully
+2022-11-27  22:11:29 [main] INFO  cartPageTest.CartPageTest - The actual price and the expected price are verified successfully
+2022-11-27  22:11:29 [main] INFO  cartPageTest.CartPageTest - The actual subtotal and the expected subtotal are verified successfully
+2022-11-27  22:11:29 [main] INFO  cartPageTest.CartPageTest - The actual price and the expected price are verified successfully
+2022-11-27  22:11:29 [main] INFO  cartPageTest.CartPageTest - The actual subtotal and the expected subtotal are verified successfully
+2022-11-27  22:11:29 [main] INFO  cartPageTest.CartPageTest - The actual price and the expected price are verified successfully
+2022-11-27  22:11:29 [main] INFO  cartPageTest.CartPageTest - The actual subtotal and the expected subtotal are verified successfully
+2022-11-27  22:11:29 [main] INFO  cartPageTest.CartPageTest - The actual total and the expected total are verified successfully
+2022-11-27  22:11:40 [main] INFO  contactPageTest.SubmitSuccessTest - start Browser successfully
+2022-11-27  22:11:40 [main] INFO  contactPageTest.SubmitSuccessTest - go to home page successfully
+2022-11-27  22:11:40 [main] INFO  contactPageTest.SubmitSuccessTest - go to contact page successfully
+2022-11-27  22:11:41 [main] INFO  contactPageTest.SubmitSuccessTest - contact messages are submitted successfully
+2022-11-27  22:11:51 [main] INFO  contactPageTest.SubmitSuccessTest - Submit contact message are verified successfully
+2022-11-27  22:12:00 [main] INFO  contactPageTest.VerifyErrorMsgTest - start Browser successfully
+2022-11-27  22:12:00 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to home page successfully
+2022-11-27  22:12:00 [main] INFO  contactPageTest.VerifyErrorMsgTest - go to contact page successfully
+2022-11-27  22:12:00 [main] INFO  contactPageTest.VerifyErrorMsgTest - click submit button successfully
+2022-11-27  22:12:00 [main] INFO  contactPageTest.VerifyErrorMsgTest - required assertions are verified successfully
+2022-11-27  22:12:31 [main] INFO  contactPageTest.VerifyErrorMsgTest - Validate errors are gone successfully
+2022-11-27  22:12:39 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - start Browser successfully
+2022-11-27  22:12:39 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to home page successfully
+2022-11-27  22:12:40 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - go to contact page successfully
+2022-11-27  22:12:40 [main] INFO  contactPageTest.VerifyErrorMsgFailTest - click submit button successfully
